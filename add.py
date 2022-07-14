@@ -1,3 +1,3 @@
-a = 177
-b = 3
-print(a-b)
+a = 178
+b = 4
+print(a*b)
